@@ -202,3 +202,4 @@ Every commit follows this pattern: `type(scope): short description`
 3. **Description** — lowercase, no period at end, max 72 chars total
 4. **One session = one commit** — don't split a sync across multiple commits
 5. **No skipping** — every sync must end with a commit (Step 6 of the protocol)
+6. **Don't list yourself as a co-author of the commits
